@@ -1,5 +1,4 @@
-### ☕
-
+### Olá ☕ 👏
 <!--
 **lumamontes/lumamontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📖 Cursando Sistemas para Internet na Faculdade META
 
-![Luma Montes Status](https://github-readme-stats.vercel.app/api?username=lumamontes&show_icons=true)
+🚀 Atualmente desenvolvendo projetos em React.Js e Node.JS 
+
+🗣️ Ela/dela
+
+![Luma Montes Status](https://github-readme-stats.vercel.app/api?username=lumamontes&show_icons=true&theme=synthwave)
+)
+
