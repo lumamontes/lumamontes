@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 -->
 📖 Cursando Sistemas para Internet na Faculdade META
 
-🚀 Atualmente desenvolvendo projetos em React.Js e Node.JS 
-
-🗣️ Ela/dela
-
 ![Luma Montes Status](https://github-readme-stats.vercel.app/api?username=lumamontes&show_icons=true&theme=synthwave)
 )
 
