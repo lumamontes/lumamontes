@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📖 Cursando Sistemas para Internet na Faculdade META
+📖 Cursando Sistemas para Internet
+🔭 ReactJS, Node, PHP 
 
 ![Luma Montes Status](https://github-readme-stats.vercel.app/api?username=lumamontes&show_icons=true&theme=synthwave)
-)
+
 
