@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📖 Cursando Sistemas para Internet </br>
-🔭 ReactJS, Node, PHP 
 
-![Luma Montes Status](https://github-readme-stats.vercel.app/api?username=lumamontes&show_icons=true&theme=synthwave)
+![Luma Montes Status](https://github-readme-stats.vercel.app/api?username=lumamontes&show_icons=true&theme=synthwave)  
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumamontes&hide=tex&layout=compact&theme=synthwave"/>
 
 
