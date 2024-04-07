@@ -32,5 +32,3 @@ I'm Luma :)
 [![Gmail Badge](https://img.shields.io/badge/-lumagoesmontes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lumagoesmontes@gmail.com)](mailto:lumagoesmontes@gmail.com)
 
 <hr>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lumamontes&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
