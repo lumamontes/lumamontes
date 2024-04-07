@@ -1,8 +1,4 @@
-
-<p align="center">
-  <img src="https://github.com/lumamontes/lumamontes/assets/60052718/3768172b-e479-44f1-ac4a-062c6d87e4d4.gif" alt="gif of Korra in the Avatar state"/>
-</p>
-    
+   
 <h1 align='center'> Hi! :wave:</h1>
 <p>
 I'm Luma :)
@@ -31,4 +27,6 @@ I'm Luma :)
 [![Dev.to Badge](https://img.shields.io/badge/-@lumamontes-03a57a?style=flat-square&labelColor=000000&logo=dev.to&logoColor=white&link=https://dev.to/lumamontes/)](https://dev.to/lumamontes/) [![Linkedin Badge](https://img.shields.io/badge/-lumamontes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lumamontes/)](https://www.linkedin.com/in/lumamontes/) 
 [![Gmail Badge](https://img.shields.io/badge/-lumagoesmontes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lumagoesmontes@gmail.com)](mailto:lumagoesmontes@gmail.com)
 
-<hr>
+<p align="center">
+  <img src="https://github.com/lumamontes/lumamontes/assets/60052718/3768172b-e479-44f1-ac4a-062c6d87e4d4.gif" alt="gif of Korra in the Avatar state"/>
+</p>
