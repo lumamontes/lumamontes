@@ -6,8 +6,8 @@ I'm Luma :)
 
 - Pronouns: she/her
 - I work at [Proesc](https://www.proesc.com/)
-- I’m currently learning **Expo, React Native, Typescript and Graphql**
-- Ask me about **PHP, Laravel, React, Astro, Node, HTML, CSS and Javascript**
+- I’m currently learning **Expo, React Native, Typescript and Node**
+- Ask me about **PHP, Laravel, React, Astro, HTML, CSS and Javascript**
 
 <h3>Languages and tools</h3>
 
